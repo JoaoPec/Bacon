@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-size: 120px;
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 80px;
+  }
+  
+  img {
+    width: 30%;
+    display: block;
+    margin: auto;
+  }
+  body{
+    background-image: url(https://media.istockphoto.com/id/1365669490/pt/foto/slices-of-bacon-isolated-on-a-white-background.jpg?s=612x612&w=is&k=20&c=pbfGT0ASGQf1BLdMajeZ0sg2luD4LEw7p7S6kI_8zfQ=);
+  }
+
+
+  
